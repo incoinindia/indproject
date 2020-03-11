@@ -15,7 +15,7 @@ Indcoin integration/staging tree
 http://www.indcoin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Indcoin Developers
+Copyright (c) 2019-2020 Indcoin Developers
 
 What is Indcoin?
 ----------------
